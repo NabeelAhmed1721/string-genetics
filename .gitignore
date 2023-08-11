@@ -1,7 +1,13 @@
 node_modules
 dist
+.DS_Store
 
 # Added by cargo
 
 /target
 /Cargo.lock
+
+
+# WASM
+
+src/wasm
